@@ -71,7 +71,7 @@ Aqui irían mis proyectos si tuviese proyectos :v
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center" justify-content="center">
+<p align="center" columns="1">
 <a href="https://github.com/datkoa25">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=datkoa25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=datkoa25&layout=compact&langs_count=8&theme=algolia"/>
