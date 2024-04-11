@@ -60,7 +60,8 @@ Aqui irían mis proyectos si tuviese proyectos :v
 - **Extras**:
 
     ![Adobe](https://img.shields.io/badge/SuiteAdobe-%23E34F26.svg?style=for-the-badge&logo=Adobe&logoColor=white)
-    ![Unity](https://img.shields.io/badge/Unity-%23000200.svg?style=for-the-badge&logo=Unity&logoColor=white)   
+    ![Unity](https://img.shields.io/badge/Unity-%23000200.svg?style=for-the-badge&logo=Unity&logoColor=white)
+    ![Wordpress](https://img.shields.io/badge/WordPress-%234285F4.svg?style=for-the-badge&logo=Wordpress&logoColor=white)   
 
 
 </p>
