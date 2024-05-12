@@ -19,10 +19,6 @@
 
 🚀 Let's connect and collaborate on projects that push the envelope and inspire innovation!
 
-## PROJECTS  
-
-https://github.com/datkoa25/DeathInTheDark
-
 ## SKILLS 
 
 <p align="center">
